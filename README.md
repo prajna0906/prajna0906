@@ -1,3 +1,4 @@
+[![MasterHead](20220720_185443.jpg)]
 <h1 align="center">Hi 👋, I'm Prajna R Patil</h1>
 <h3 align="center">An Artist in the multiverse</h3>
 <img allign="right" alt="coding"  width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"
