@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Prajna R Patil</h1>
 <h3 align="center">An Artist in the multiverse</h3>
-<img allign="right" alt="coding"  width="400"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajna0906&label=Profile%20views&color=0e75b6&style=flat" alt="prajna0906" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prajna_patil" target="blank"><img src="https://img.shields.io/twitter/follow/prajna_patil?logo=twitter&style=for-the-badge" alt="prajna_patil" /></a> </p>
 
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajna0906&show_icons=true&locale=en" alt="prajna0906" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajna0906&" alt="prajna0906" /></p>
-
