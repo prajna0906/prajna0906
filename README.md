@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajna R Patil</h1>
-<h3 align="center">An Artist in the multiverse</h3>
+<h3 align="center">An Artist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajna0906&label=Profile%20views&color=0e75b6&style=flat" alt="prajna0906" /> </p>
 
